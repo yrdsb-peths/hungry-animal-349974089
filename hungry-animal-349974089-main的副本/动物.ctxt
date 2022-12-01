@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=\u52A8\u7269
-comment0.text=\n\ Write\ a\ description\ of\ class\ \u52A8\u7269\ here.\n\ \n\ @author\ Rex\ \n\ @version\ 2022/11/24\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\n\ Act\ -\ do\ whatever\ the\ \u52A8\u7269\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
-numComments=2
